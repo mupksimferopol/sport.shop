@@ -311,7 +311,7 @@ footer img {
 @media screen and (max-width:576px) {
    .section-about-us__info-pic img {
     width: 80%;
-    height: 200px;
+    height: 70%;
     border-radius: 40px;
 }
     .header-inner{
@@ -329,3 +329,4 @@ footer img {
     }
 
 }
+
